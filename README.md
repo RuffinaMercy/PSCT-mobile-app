@@ -71,6 +71,8 @@ The dashboard provides the following sections:
 ## Contact
 For any queries or contributions, feel free to contact me via **GitHub Profile**.
 
----
 ### Project URL
 🔗 [PSCT Mobile Application](https://x.thunkable.com/projectPage/67a99048b04874b4f7b6e1bf)
+
+## PSCT mobile app apk (https://drive.google.com/file/d/1uqJyre4XGaAzNUb3SXPvztfdg621KlF7/view?usp=sharing)
+
